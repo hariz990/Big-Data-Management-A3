@@ -1,7 +1,7 @@
 # Big-Data-Management-A3
 Big Data Management Assignment 3 (Semester 1 2019)
 
-Please read Assignment3.pdf file that is attached in this project's repository for assignment tasks and instructions
+For more detail of the assignment instructions and tasks, please read Assignment2.pdf file that is attached in this project's repository
 
 A very interesting assignment that was constructed from Searching Trajectories by Locations – An Efficiency Study SIGMOD research paper
 
